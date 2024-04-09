@@ -34,8 +34,6 @@ Here are some ideas to get you started:
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="20" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
